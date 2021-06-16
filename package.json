@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RomainM81/wilders.git"
+  },
+  "author": "RomainM81",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainM81/wilders/issues"
+  },
+  "homepage": "https://github.com/RomainM81/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
